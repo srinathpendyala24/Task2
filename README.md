@@ -20,3 +20,11 @@ Once trained, the model is evaluated using Mean Squared Error (MSE) and R² Scor
 This project demonstrates the power of machine learning in sports analytics, helping teams and analysts predict player performance, optimize team selection, and strategize effectively. Future improvements could involve advanced models like Random Forests or Neural Networks for enhanced accuracy.
 
 *OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/942e7d43-5ec3-4ce5-adab-5904e92ba770)
+
+![Image](https://github.com/user-attachments/assets/c7756ca0-8df9-4410-ac9c-7ddce0c207da)
+
+![Image](https://github.com/user-attachments/assets/dafa0bcd-f4b6-4fc2-80ec-2b99b4a7a1d5)
+
+![Image](https://github.com/user-attachments/assets/047e32eb-cfb7-4651-bf39-4a63b236b8fd)
